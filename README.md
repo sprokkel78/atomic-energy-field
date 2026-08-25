@@ -1,3 +1,2 @@
 My hypothesis: an atom has an atomic energy field around it. If it is fired at a double slit, the atomic field that passes through the 2 slits causes a wavepattern behind the slits and the atom that was fired travels along on 1 of the 5 wavepatterns (because it comes from a wave), so that only 1 location point is measured. The reason that the wavepattern disappears when measured is because the energy of the atomic field is destroyed when measured, the energy field connects back to the first atom it encounters.(?)
 
-I wrote this in 10 minutes ... ?
